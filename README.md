@@ -28,5 +28,5 @@ pip install -r requirements.txt
 python train.py
 
 4. Run chatbot
-python chat.py
+python chat.py and 
 python app.py
